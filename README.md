@@ -16,7 +16,6 @@ The project trains one Naru-style MADE autoregressive density model per supporte
 - `evaluation/stats_ceb/` — reusable STATS-CEB evaluation logic
 - `scripts/` — thesis experiment entry points, preflight validation, orchestration, and plot generation
 - `tests/` — unit and integration tests
-- `artifacts/evaluations/README.md` — schema and interpretation of generated evaluation artifacts
 
 ## Environment
 

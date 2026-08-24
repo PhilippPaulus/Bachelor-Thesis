@@ -1,0 +1,10 @@
+# Core dependencies used by the implementation and evaluation.
+# The PostBOUND and PyTorch versions match the thesis evaluation environment.
+postbound==0.21.5
+torch==2.6.0
+pandas
+numpy
+matplotlib
+
+# Test runner
+pytest
